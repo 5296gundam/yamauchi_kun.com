@@ -1,0 +1,137 @@
+h1{
+  /* color: blue; */
+  color:rgb(83, 10, 83);
+  font-weight: bold;
+  align-items:center;
+  display:flex;
+}
+
+.container{
+display:flex;
+padding-left:64px
+}
+h{
+  color:rgb(58, 2, 58);
+  font-weight: bolder;
+}
+p{
+  color:rgb(119, 55, 119)
+}
+li{
+  color:rgb(170,70,170);
+  list-style-type: none;
+}
+header {
+  background-color:rgb(241, 168, 241) ;
+  padding-top: 8px;
+  padding-left:128px;
+  padding-bottom:48px;
+}
+body{
+  color:#f5c9da;
+  background:#e7e1e3;
+  font-family: Verdana, sans-serif;
+  margin-top:0px; 
+  margin-right:0px;
+  margin-left:opx;
+  margin-bottom:0px;
+}
+
+.gyouza {
+  background-color:rgb(241, 168, 241);
+  width: 950px;
+  height:270px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto; 
+  display:flex;
+}
+
+.icon{
+  background-color: rgb(241, 168, 241);
+  width:320px; height:0px;
+}
+
+.icon img{
+  border-width:50px; border-radius: 50%;
+  border-width: 1px;
+  border-style: solid;
+  border-color: white 
+}
+
+.info{
+  background-color: rgb(241, 168, 241);
+  width:710px;
+  padding-top:32px;
+  padding-right:0px;
+  font-weight: normal;
+  font-size: 17px;
+}
+
+.corona{
+ margin-top:32px;
+ margin-left: 256px;
+ margin-right: 256px;
+ margin-bottom: auto;
+}
+
+.corona p{
+line-height: 1.8;
+}
+
+.jiman  li{
+  margin-top: 16px;
+  margin-left: 220px;
+  margin-right: 220px;
+  margin-bottom:auto;
+  line-height:1.8;
+}
+
+.jiman h{
+  margin-top: 32px;
+  margin-left: 256px;
+  margin-right: 256px;
+  margin-bottom:auto;
+}
+
+.rakushitai h{
+  margin-top: 32px;
+  margin-left: 256px;
+  margin-right: 256px;
+  margin-bottom: auto;
+}
+
+.rakushitai p{
+  margin-left: 256px;
+  margin-right: 256px;
+  margin-top: 32px;
+  margin-bottom: auto;
+}
+.rakushitai ul{
+ margin-left: 522px;
+}
+
+.link ul{
+  list-style-type: none;
+  display: flex;
+}
+
+.link li{
+  margin-left: 436px;
+  margin-right: 436px;
+  margin-top: 32px;
+  margin-bottom: auto;
+}
+.hageteru{
+align-items:center;
+display:flex;
+}
+
+
+ footer{
+   text-align:center;
+   font-size:14px;
+   margin-bottom:60px;
+   color:gray;
+  }
